@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    cout << "Olá mundo!\n";
-	return 0; // Indent Size = 4.
-}
+int main()
+	{
+	cout << "Oi! mundo!\n";
+	return 0;
+	}
